@@ -21,6 +21,7 @@ const Signup = ()=>{
     }
 
     return (
+        
         <div>
             <h1>Signup to continue</h1>
 
